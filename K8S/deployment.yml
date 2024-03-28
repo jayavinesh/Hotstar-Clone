@@ -16,4 +16,4 @@ spec:
       - name: hotstar1
         image: jayavinesh/hotstar1:latest
         ports:
-        - containerPort: 3000  # Port your application listens on
+        - containerPort: 3001  # Port your application listens on
